@@ -17,3 +17,8 @@ Simples simulador de batalha Pokemon em Java usando Gradle.
 
 ```bash
 gradle run
+```
+
+## Output
+
+![Saída do programa](CapturaOutputRun.png)
