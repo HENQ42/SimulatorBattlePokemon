@@ -22,3 +22,7 @@ gradle run
 ## Output
 
 ![Saída do programa](CapturaOutputRun.png)
+
+## Diagrama de Classes
+
+![Saída do programa](uml_pokemon.drawio.png)
